@@ -1,0 +1,184 @@
+{
+    "data":   [  {
+        "id": 1,
+        "title": "Amisha'''s makeupartistry",
+        "price": 25000,
+        "service": "Bridal Makeup",
+        "rating": 4.8,
+        "reviewers": 10,
+        "location": "Mumbai",
+        "tags": [],
+        "images": [
+            "https://www.feba.co.in/media/BridalImages/337/123/16395801889922.jpg", 
+            "https://www.feba.co.in/media/BridalImages/131/123/16137199380490.jpg", 
+            "https://www.feba.co.in/media/BridalImages/643/123/16303960776122.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Forest Hills at Tala",
+        "price": 800,
+        "service": "Veg Per Plate",
+        "rating": 3.8,
+        "reviewers": 5,
+        "location": "Mumbai, Colaba",
+        "tags": ["1200-1600 PAX", "Resorts"],
+        "images": [
+            "https://www.feba.co.in/media/BridalImages/2669/123/16475127022600.jpg", 
+            "https://www.feba.co.in/media/BridalImages/default.jpg", 
+            "https://www.feba.co.in/media/BridalImages/2674/123/16475151268380.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "K. N. Makeovers",
+        "price": 12000,
+        "service": "Bridal Makeup",
+        "rating": 4.8,
+        "reviewers": 12,
+        "location": "Chandigarh, Sector 31",
+        "tags": [],
+        "images": [
+            "https://www.feba.co.in/media/BridalImages/823/123/16484853381460.jpg", 
+            "https://www.feba.co.in/media/BridalImages/795/123/16485601303700.jpg", 
+            "https://www.feba.co.in/media/BridalImages/319/123/16123362558370.jpg"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "The Oberoi",
+        "price": 950,
+        "service": "Veg Per Plate",
+        "rating": 4.3,
+        "reviewers": 1,
+        "location": "Mumbai, South Mumbai",
+        "tags": ["2000-2400 PAX", "4 Start & Above Hotels", "Banquest Halls"],
+        "images": [
+            "https://www.feba.co.in/media/BridalImages/5702/123/16524275347610.jpg", 
+            "https://www.feba.co.in/media/BridalImages/5690/123/16522457673370.jpg", 
+            "https://www.feba.co.in/media/BridalImages/3696/123/16522541546870.jpg"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Amisha'''s makeupartistry",
+        "price": 25000,
+        "service": "Bridal Makeup",
+        "rating": 4.8,
+        "reviewers": 10,
+        "location": "Mumbai",
+        "tags": [],
+        "images": [
+            "https://www.feba.co.in/media/BridalImages/337/123/16395801889922.jpg", 
+            "https://www.feba.co.in/media/BridalImages/131/123/16137199380490.jpg", 
+            "https://www.feba.co.in/media/BridalImages/643/123/16303960776122.jpg"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Forest Hills at Tala",
+        "price": 800,
+        "service": "Veg Per Plate",
+        "rating": 3.8,
+        "reviewers": 5,
+        "location": "Mumbai, Colaba",
+        "tags": ["1200-1600 PAX", "Resorts"],
+        "images": [
+            "https://www.feba.co.in/media/BridalImages/2669/123/16475127022600.jpg", 
+            "https://www.feba.co.in/media/BridalImages/default.jpg", 
+            "https://www.feba.co.in/media/BridalImages/2674/123/16475151268380.jpg"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "K. N. Makeovers",
+        "price": 12000,
+        "service": "Bridal Makeup",
+        "rating": 4.8,
+        "reviewers": 12,
+        "location": "Chandigarh, Sector 31",
+        "tags": [],
+        "images": [
+            "https://www.feba.co.in/media/BridalImages/823/123/16484853381460.jpg", 
+            "https://www.feba.co.in/media/BridalImages/795/123/16485601303700.jpg", 
+            "https://www.feba.co.in/media/BridalImages/319/123/16123362558370.jpg"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "The Oberoi",
+        "price": 950,
+        "service": "Veg Per Plate",
+        "rating": 4.3,
+        "reviewers": 1,
+        "location": "Mumbai, South Mumbai",
+        "tags": ["2000-2400 PAX", "4 Start & Above Hotels", "Banquest Halls"],
+        "images": [
+            "https://www.feba.co.in/media/BridalImages/5702/123/16524275347610.jpg", 
+            "https://www.feba.co.in/media/BridalImages/5690/123/16522457673370.jpg", 
+            "https://www.feba.co.in/media/BridalImages/3696/123/16522541546870.jpg"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Amisha'''s makeupartistry",
+        "price": 25000,
+        "service": "Bridal Makeup",
+        "rating": 4.8,
+        "reviewers": 10,
+        "location": "Mumbai",
+        "tags": [],
+        "images": [
+            "https://www.feba.co.in/media/BridalImages/337/123/16395801889922.jpg", 
+            "https://www.feba.co.in/media/BridalImages/131/123/16137199380490.jpg", 
+            "https://www.feba.co.in/media/BridalImages/643/123/16303960776122.jpg"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Forest Hills at Tala",
+        "price": 800,
+        "service": "Veg Per Plate",
+        "rating": 3.8,
+        "reviewers": 5,
+        "location": "Mumbai, Colaba",
+        "tags": ["1200-1600 PAX", "Resorts"],
+        "images": [
+            "https://www.feba.co.in/media/BridalImages/2669/123/16475127022600.jpg", 
+            "https://www.feba.co.in/media/BridalImages/default.jpg", 
+            "https://www.feba.co.in/media/BridalImages/2674/123/16475151268380.jpg"
+        ]
+    },
+    {
+        "id": 11,
+        "title": "K. N. Makeovers",
+        "price": 12000,
+        "service": "Bridal Makeup",
+        "rating": 4.8,
+        "reviewers": 12,
+        "location": "Chandigarh, Sector 31",
+        "tags": [],
+        "images": [
+            "https://www.feba.co.in/media/BridalImages/823/123/16484853381460.jpg", 
+            "https://www.feba.co.in/media/BridalImages/795/123/16485601303700.jpg", 
+            "https://www.feba.co.in/media/BridalImages/319/123/16123362558370.jpg"
+        ]
+    },
+    {
+        "id": 12,
+        "title": "The Oberoi",
+        "price": 950,
+        "service": "Veg Per Plate",
+        "rating": 4.3,
+        "reviewers": 1,
+        "location": "Mumbai, South Mumbai",
+        "tags": ["2000-2400 PAX", "4 Start & Above Hotels", "Banquest Halls"],
+        "images": [
+            "https://www.feba.co.in/media/BridalImages/5702/123/16524275347610.jpg", 
+            "https://www.feba.co.in/media/BridalImages/5690/123/16522457673370.jpg", 
+            "https://www.feba.co.in/media/BridalImages/3696/123/16522541546870.jpg"
+        ]
+    }
+
+]
+}
