@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/feba/static/css/main.22ab841e.css",
+    "main.js": "/feba/static/js/main.ea557ca9.js",
+    "static/js/787.09dd7d25.chunk.js": "/feba/static/js/787.09dd7d25.chunk.js",
+    "index.html": "/feba/index.html",
+    "main.22ab841e.css.map": "/feba/static/css/main.22ab841e.css.map",
+    "main.ea557ca9.js.map": "/feba/static/js/main.ea557ca9.js.map",
+    "787.09dd7d25.chunk.js.map": "/feba/static/js/787.09dd7d25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22ab841e.css",
+    "static/js/main.ea557ca9.js"
+  ]
+}
