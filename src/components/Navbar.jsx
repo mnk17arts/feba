@@ -19,7 +19,7 @@ const Navbar = () => {
                 <Menu />
                 </div> 
                 <div className="nb__container__logo">
-                    <Link exact to="/">
+                    <Link exact to="/feba">
                 <img src="https://www.feba.co.in/static/media/logo.9f98b1b6.png" alt="logo" />  
                 <span> Feba </span>
                     </Link>

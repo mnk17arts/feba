@@ -13,11 +13,11 @@ function App() {
     <div className="App">
       <Navbar />
       <Routes>
-            <Route path="/" element={<Home />} />
+            <Route path="/feba" element={<Home />} />
             {
                 Data.data.map((item) => {
                     return (
-                        <Route path={`/${item.id}`} element={<Product data={item} />} />
+                        <Route path={`/feba/${item.id}`} element={<Product data={item} />} />
                     )
                 })
             }

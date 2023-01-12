@@ -35,7 +35,7 @@ return (
         <div className="home__container">
             {data.map((item) => (
                 <div>
-                    <Link to={`/${item.id}`}><Card key={item.id} data={item} /></Link>
+                    <Link to={`/feba/${item.id}`}><Card key={item.id} data={item} /></Link>
                     <div className="more__info"> <span><Info/></span> </div>
                     <div className="fav__btn"> <span > <Heart/> </span> </div>
                 </div>

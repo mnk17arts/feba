@@ -237,6 +237,7 @@ code {
   border-radius: 10px;
   background-color: rgb(0, 0, 0);
   position: relative;
+  min-height: 200px;
 }
 
 .home__container > div > .more__info {
